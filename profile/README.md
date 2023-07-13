@@ -1,5 +1,8 @@
 # Waypoint Explorer
 
-The repository for the **explorer web application** is [here](https://github.com/Waypoint-Explorer/explorer-app)
+Waypoint Explorer è un progetto nato per incentivare la visita dei punti di interesse turistici, culturali e naturalistici attraverso percorsi, con l'obiettivo di promuovere lo sviluppo del territorio e l'esercizio fisico all'aria aperta.
 
-The repository for the **smart waypoint devices** is [here](https://github.com/Waypoint-Explorer/smart-waypoint)
+## Componenti del gruppo
+- Daniele Gambaletta
+- Riccardo Omiccioli
+- Cecilia Teodorani
